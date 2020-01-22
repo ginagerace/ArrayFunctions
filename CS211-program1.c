@@ -96,7 +96,7 @@ int main (int argc, char** argv)
  store = (int *) malloc (allocated * sizeof(int) );
 
  /* prompt the user for input */
- printf ("Enter in a list of numbers ito be stored in a dynamic array.\n");
+ printf ("Enter in a list of numbers to be stored in a dynamic array.\n");
  printf ("End the list with the terminal value of -999\n");
 
  /* loop until the user enters -999 */
